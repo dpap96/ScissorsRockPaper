@@ -75,4 +75,13 @@ img{
      perspective: 1000px;
      padding: 10px;
 }
+#paper:hover {
+  cursor: pointer;
+}
+#scissor:hover {
+  cursor: pointer;
+}
+#rock:hover {
+  cursor: pointer;
+}
 
